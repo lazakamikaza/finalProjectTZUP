@@ -1,0 +1,5 @@
+com\elfak\tzup\service\ExcelService.class
+com\elfak\tzup\model\UpdateCourseEnrollmentsResponse.class
+com\elfak\tzup\controler\ExcelController.class
+com\elfak\tzup\model\UpdateCourseEnrollmentsRequest.class
+com\elfak\tzup\model\UpdateCoursesRequest.class
